@@ -1,0 +1,11 @@
+.idea/
+gen/
+.DS_Store
+Pods/
+Podfile.lock
+xcuserdata/
+*.xcworkspace/
+node_modules/
+.firebaserc
+firebase-debug.log
+.firebase
